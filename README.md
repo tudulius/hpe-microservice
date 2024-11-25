@@ -1,5 +1,7 @@
 # HPE-마이크로서비스 배포하기
 
+[원본-GitHub](https://github.com/Dennis-IDEACUBE/Deploying-Microservices)
+
 ### Google Drive Path ###
 https://drive.google.com/drive/folders/1drUGDcoWGTehvUSHhJnXkOF9pKRbD3NM?usp=drive_link
 
